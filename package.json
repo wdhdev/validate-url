@@ -1,0 +1,21 @@
+{
+  "name": "@williamharrison/validate-url",
+  "version": "1.0.0",
+  "description": "Check if a URL is valid or not.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wdhdev/validate-url.git"
+  },
+  "keywords": [
+    "url",
+    "validate",
+    "validation"
+  ],
+  "author": "William Harrison <william@williamharrison.dev>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wdhdev/validate-url/issues"
+  },
+  "homepage": "https://github.com/wdhdev/validate-url#readme"
+}
