@@ -8,7 +8,7 @@ Using Validate URL is very quick and easy.
 // Import Package
 const validateURL = require("@williamharrison/validate-url");
 
-console.log(validateURL("https://example.com");
+console.log(validateURL("https://example.com"));
 // true
 
 console.log(validateURL("hello world"));
