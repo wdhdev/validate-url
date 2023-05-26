@@ -1,6 +1,6 @@
 {
   "name": "@williamharrison/validate-url",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Check if a URL is valid or not.",
   "main": "index.js",
   "repository": {
